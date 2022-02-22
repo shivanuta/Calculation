@@ -9,7 +9,7 @@ namespace Calculator.Operations
     /// <summary>
     /// This entity contains addition operation.
     /// </summary>
-    class Addition
+    public class Addition
     {/// <summary>
      /// This method calculate the add operation.
      /// </summary>
